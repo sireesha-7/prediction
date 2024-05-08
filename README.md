@@ -2,7 +2,7 @@
 This project aims to analyze a dataset on housing prices, exploring factors influencing prices and constructing a predictive model. Through data analysis, correlations between housing features and prices will be examined, leading to the development of a model capable of estimating house prices based on their attributes.
 
 
-advantages
+Advantages
 
 Data Analysis Skills: The project allows practitioners to hone their data analysis skills by exploring and manipulating datasets containing housing-related features. This includes data cleaning, visualization, and statistical analysis.
 Decision Support: Accurate housing price predictions can serve as decision support tools for various stakeholders. Homebuyers can use them to assess affordability and make informed purchasing decisions, while sellers can set competitive prices based on market trends.
